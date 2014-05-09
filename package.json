@@ -1,0 +1,36 @@
+{
+  "name": "redis-utils",
+  "description": "Redis utils (auth, one client)",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Lukas Linhart <lukas@apiary.io>",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "async": "",
+    "coffee-script": "~1.7.1",
+    "gulp-plumber": "~0.5.6",
+    "gulp-util": "~2.2.14",
+    "gulp-watch": "~0.5.2",
+    "hiredis": "^0.1.16",
+    "redis": "^0.10.1",
+    "winston": "^0.7.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "chai": "~1.9.0",
+    "gulp": "~3.6.2",
+    "gulp-mocha": "~0.4.1",
+    "gulp-coffeelint": "~0.3.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/apiaryio/redis-utils/raw/master/LICENSE"
+    }
+  ]
+}
