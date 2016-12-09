@@ -12,20 +12,20 @@
   },
   "dependencies": {
     "async": "",
-    "coffee-script": "~1.7.1",
-    "gulp-plumber": "~0.5.6",
-    "gulp-util": "~2.2.14",
-    "gulp-watch": "~0.5.2",
-    "hiredis": "^0.1.16",
-    "redis": "^0.10.1",
-    "winston": "^0.7.3"
+    "coffee-script": "",
+    "gulp-plumber": "",
+    "gulp-util": "",
+    "gulp-watch": "",
+    "hiredis": "",
+    "redis": "",
+    "winston": ""
   },
   "devDependencies": {
-    "mocha": "~1.18.2",
-    "chai": "~1.9.0",
-    "gulp": "~3.6.2",
-    "gulp-mocha": "~0.4.1",
-    "gulp-coffeelint": "~0.3.2"
+    "mocha": "",
+    "chai": "",
+    "gulp": "",
+    "gulp-mocha": "",
+    "gulp-coffeelint": ""
   },
   "licenses": [
     {
